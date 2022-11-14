@@ -1,0 +1,8 @@
+{
+  "name": "discordjs-bot-template",
+  "version": "1.0.0",
+  "description": "Template para crear bots de Discord con discord.js v14",
+  "main": "index.js",
+  "author": "Sabinico",
+  "license": "MIT"
+}
