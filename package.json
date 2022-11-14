@@ -4,5 +4,8 @@
   "description": "Template para crear bots de Discord con discord.js v14",
   "main": "index.js",
   "author": "Sabinico",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
 }
